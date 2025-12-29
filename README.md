@@ -4,4 +4,4 @@
 
 ### features
 
-- [] leave history
+- [ ] leave history
